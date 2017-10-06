@@ -1,6 +1,6 @@
 {
   "name": "openseadragon-screenshot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin for openseadragon, which allows you to make a screenshot of your current viewport, with a user specified resolution.",
   "main": "openseadragonScreenshot.js",
   "scripts": {
@@ -20,9 +20,4 @@
     "url": "https://github.com/bsavelev/Openseadragon-screenshot/issues"
   },
   "homepage": "https://github.com/bsavelev/Openseadragon-screenshot#readme"
-  "dependencies": {
-    "blob.js": ">1.0.0",
-    "file-saver": ">1.3.0",
-    "openseadragon": ">2.0.0"
-  }
 }
